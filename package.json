@@ -1,0 +1,28 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Immutable collections for Backbone.js",
+  "main": "backbone.freeze.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coddingBoy/example.git"
+  },
+  "keywords": [
+    "backbone",
+    "immutable",
+    "freeze"
+  ],
+  "author": "kiamkiet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coddingBoy/example/issues"
+  },
+  "homepage": "https://github.com/coddingBoy/example#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
